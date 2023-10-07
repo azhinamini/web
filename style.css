@@ -1,0 +1,56 @@
+.p1 {
+    background-image: url("1.png");
+     }
+     .p2 {
+        background-image: url("1.png");
+         }
+
+
+.h2 {
+   border: 10px dotted gray;
+}
+
+.p33 {
+    border: 10px dotted rgb(190, 168, 138) ;
+  
+}
+         
+         .p3 {
+            background-image: url("1.png");
+             }
+.p1 {
+      border: 10px dotted white;
+}
+
+  .hp {
+    border-style: dashed;
+ 
+  }
+.hp {
+   text-align: center;
+   text-shadow: 4px 4px 5px rgb(80, 75, 75);
+   border-radius: 15px ;
+}
+.h1 {
+   text-align: center;
+   text-shadow: 3px 3px 5px rgb(226, 119, 119);
+ 
+}
+ .jk {
+   text-align: center;
+   text-shadow: 4px 4px 5px rgb(46, 73, 73);
+ }
+ .mm {
+   text-align: center;
+   text-shadow: 4px 4px 5px rgb(199, 0, 149);
+ }
+ .ll {
+   text-shadow: 3px 3px 5px ;
+ }
+ .gg {
+   text-shadow: 3px 3px 5px ;
+ }
+
+ .pi {
+text-shadow: 3px 3px 5px;
+ }
